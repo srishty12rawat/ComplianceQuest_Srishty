@@ -5,3 +5,4 @@
     -> <img width="1481" height="677" alt="image" src="https://github.com/user-attachments/assets/e03ca077-0fab-4992-b45e-70099d864895" />
     -> Or, we can use cron expression to schedule this job -
     System.schedule('PartProductAssociationJob', '0 0 6 * * ?', new PartProductAssociation_Schedule());
+-> Added a permission set with apex class access
