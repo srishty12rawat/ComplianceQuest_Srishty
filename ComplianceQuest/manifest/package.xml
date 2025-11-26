@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>PartProductAssociation_Schedule</members>
+        <members>PartProductAssociation_Schedule_Test</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>CQ_Product_Admin</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>SQX_Part__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>SQX_Part__c.Product__c</members>
+        <members>SQX_Part__c.Part_Number__c</members>
+        <members>SQX_Part__c.Active__c</members>
+        <name>CustomField</name>
+    </types>
+
+    
+    <version>65.0</version>
+</Package>
